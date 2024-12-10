@@ -1,0 +1,43 @@
+# PostPulse
+
+PostPulse is a robust platform designed for creating, managing, and distributing dynamic posts. It leverages the power of NestJS to provide a scalable and maintainable backend solution.
+
+## Description
+
+PostPulse offers features such as user authentication, post creation, editing, and deletion, and real-time post updates. This project is ideal for developers looking to implement a comprehensive posting solution with modern technologies.
+
+## Author
+
+mpakholska
+
+## Version
+
+1.0.0
+
+## Installation
+
+To get started with PostPulse, you need to install the necessary dependencies. Run the following command in your project directory:
+
+```bash
+npm install
+```
+
+## Running the app
+
+## Development:
+
+```bash
+npm run start:dev
+```
+
+## Production:
+
+```bash
+npm run start:prod
+```
+
+## Debugging:
+
+```bash
+npm run start:debug
+```
